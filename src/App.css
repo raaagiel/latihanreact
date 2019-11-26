@@ -20,3 +20,11 @@
 .App-link {
   color: #09d3ac;
 }
+.header{
+  background-color: #00b8a9;
+  color:#252a34;
+}
+.Table{
+  margin-top: 25px;
+  border: 1px solid #252a34 ;
+}
